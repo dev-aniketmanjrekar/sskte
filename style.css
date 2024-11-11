@@ -212,7 +212,8 @@ Widget related products css
      z-index: 2;
 }
  .header-logo {
-     margin: 40px 0;
+     /* margin: 40px 0; */
+     margin: 20px 0;
 }
  .header-top-area {
      background-color: #222;
@@ -248,7 +249,8 @@ Widget related products css
      line-height: 25px;
      font-family: "Open Sans";
      font-weight: 600;
-     padding: 40px 25px 40px 0px;
+     /* padding: 40px 25px 40px 0px; */
+     padding: 30px 25px 10px 0px;
 }
  .mainmenu li:hover ul {
      opacity: 1;
