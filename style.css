@@ -240,7 +240,7 @@ Widget related products css
  .mainmenu li:hover > a, .current-item > a {
      color: #3498db !important;
      text-decoration: none;
-} 
+}  
  .mainmenu li a {
      color: rgb(255, 255, 255);
      display: block;
