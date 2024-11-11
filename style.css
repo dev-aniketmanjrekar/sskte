@@ -1,8 +1,8 @@
 /*
-  Theme Name: Kebrus | Minimal Multipurpose HTML5 Template
+  Theme Name: SSKTE | Shree Samartha Krupa Tech Engineers
   Author: theme_group
   Support: robiulislamfree@gmail.com
-  Description: Kebrus. is a multipurpose, professional, clean, eCommerce, creative and easy to use html5 template which is suitable for all areas.
+  Description: SSKTE. is a multipurpose, professional, clean, eCommerce, creative and easy to use html5 template which is suitable for all areas.
   Tags:architecture, business, clean design, clean layout, marketing, minimal design, minimalist, modern, newsletter, photography, portfolio
   Version: 1.0
 */
@@ -375,14 +375,14 @@ Widget related products css
  .slid-bg-1 {
      background-image: url(assets/img/slider/slider-1.jpg);
 }
- .Kebrus-single-slider {
+ .SSKTE-single-slider {
      background-position: center center;
      background-size: cover;
      color: #fff;
      height: 768px;
      position: relative;
 }
- .Kebrus-single-slider:before {
+ .SSKTE-single-slider:before {
      content: '';
      background: #000000cc;
      left: 0px;
@@ -391,28 +391,28 @@ Widget related products css
      height: 100%;
      position: absolute;
 }
- .Kebrus-single-slider h1 {
+ .SSKTE-single-slider h1 {
      color: #fff;
      font-size: 55px;
      font-weight: 700;
      text-transform: uppercase;
      line-height: 80px;
 }
- .Kebrus-single-slider h1 strong {
+ .SSKTE-single-slider h1 strong {
     /* color: #98cb2b; */
      color: #3498db;
 }
- .Kebrus-single-slider p {
+ .SSKTE-single-slider p {
      color: #fff;
      font-size: 18px;
      margin: 20px 0 33px 0;
 }
- .Kebrus-single-table {
+ .SSKTE-single-table {
      display: table;
      height: 100%;
      width: 100%;
 }
- .Kebrus-single-tablecell {
+ .SSKTE-single-tablecell {
      display: table-cell;
      vertical-align: middle;
 }
@@ -567,7 +567,7 @@ Widget related products css
      line-height: 40px;
 }
 /* about & skill area css */
- .Kebrus-about-wrap h3, .Kebrus-skill-wrap h3 {
+ .SSKTE-about-wrap h3, .SSKTE-skill-wrap h3 {
      font-weight: 700;
      color: #333333;
      font-size: 20px;
@@ -575,7 +575,7 @@ Widget related products css
      margin-bottom: 30px;
      text-transform: capitalize;
 }
- .Kebrus-about-wrap p {
+ .SSKTE-about-wrap p {
      font-size: 15px;
      line-height: 25px;
 }
@@ -1663,7 +1663,7 @@ Widget related products css
      height: 100%;
      opacity: .6;
 }
- .Kebrus-breadcroumb h2 {
+ .SSKTE-breadcroumb h2 {
      font-family: Montserrat;
      color: #fff;
      font-size: 40px;
@@ -1672,17 +1672,17 @@ Widget related products css
      line-height: 45px;
      text-transform: capitalize;
 }
- .Kebrus-breadcroumb h4 {
+ .SSKTE-breadcroumb h4 {
      font-family: Open Sans;
      color: #fff;
      font-size: 17px;
 }
- .Kebrus-breadcroumb h4 a {
+ .SSKTE-breadcroumb h4 a {
     /* color: #98cb2b; */
      color: #3498db;
      text-transform: capitalize;
 }
- .Kebrus-breadcroumb h4 a:hover {
+ .SSKTE-breadcroumb h4 a:hover {
     /* color: #98cb2b; */
      color: #3498db;
 }
